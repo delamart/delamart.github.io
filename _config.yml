@@ -31,6 +31,9 @@ favicon_img: yes
 favicon_img_path: "imgs/favicon.ico"
 #favicon_img_path: "https://external.url/favicon.ico"
 
+#Google Analytics code
+ga_code: "UA-76363557-1"
+
 
 # Build settings
 markdown: kramdown
