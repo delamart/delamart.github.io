@@ -1,5 +1,5 @@
 # Site settings
-name: Erik DeLamarter
+title: Erik DeLamarter
 description: "Software Developer and Project Manager"
 url: "delamart.github.io"
 
@@ -7,11 +7,10 @@ url: "delamart.github.io"
 # Delete the lines you don't need
 # about 5 elements are recomended
 github_username:  delamart
-gitlab_username:  erikdl
+gitlab_username:  delamart
 facebook_username: erikdelamarter
 twitter_username: delamart
 linkedin_username: erikdelamarter
-instagram_username:  ierik99
 email: erik@delamarter.ch
 
 
