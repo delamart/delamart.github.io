@@ -1,9 +1,8 @@
-version: '2'
+version: '3.8'
 services:
   jekyll:
     image: jekyll/jekyll:pages
-    environment:
-      POLLING: "true"
+    command: jekyll serve --livereload
     volumes:
       - .:/srv/jekyll
     ports:
